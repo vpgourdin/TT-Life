@@ -1,0 +1,35 @@
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script id="dsq-count-scr" src="//http://justynjen.disqus.com/count.js" async></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.1.7/vue.js"></script>
+<script src="https://rawgit.com/Wlada/vue-carousel-3d/master/dist/vue-carousel-3d.min.js"></script>
+
+
+<script>
+$( document ).ready(function() {
+   $(".hamburger-button").click(function(){
+     $(".hamburger-button").toggleClass("active");
+     $(".hamburger-menu").slideToggle();
+   });
+});
+</script>
+<script
+    type="text/javascript"
+    async defer
+    src="//assets.pinterest.com/js/pinit.js">
+</script>
+
+
+<!--//https://github.com/Wlada/vue-carousel-3d"-->
+<script>
+new Vue({
+  el: '#carousel',
+  data: {
+    slides: 7
+  },
+  components: {
+    'carousel-3d': Carousel3d.Carousel3d,
+    'slide': Carousel3d.Slide
+  }
+})
+</script>
