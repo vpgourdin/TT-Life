@@ -1,0 +1,42 @@
+---
+layout: default
+---
+
+<section class="bgPosts centered" style="background-image:url('{{page.feature-image_path}}');">
+  <div class="banner-inner">
+
+  </div>
+</section>
+
+<section>
+  <h2 class="centered"> {{page.title}} </h2>
+  <hr class="center"> </hr>
+  <p> {{page.subtitle}} </p>
+  <div class="posts">
+   {{content}}
+  </div>
+
+</section>
+
+<section class="blog">
+  <h2 class="center shorelines">Read Next</h2>
+  <div class="blog-posts grid-middle-center">
+
+     {% for post in site.posts limit:4 %}
+
+    <div class="blog-post col-3_sm-6_xs-12">
+     <img class="bg blogImage" src="{{ post.feature-image_path }} " alt="">
+     <div class="blogContainer centered">
+       <h4 class="centered blogPosts"><a href="{{ post.url }}">{{ post.title }}</a><br /></h4>
+         <p>
+  				 {{post.excerpt | truncatewords:15}}
+  			</p>
+  			   <a href="{{post.url}}" class="postUrl"> Read More</a>
+      </div>
+     </div>
+
+     {% endfor %}
+
+    </div>
+
+</section>
