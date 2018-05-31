@@ -19,6 +19,11 @@
     max-width : 100%;
     height: auto;
   }
+  .logo{
+    height: 180px;
+    right: 37px;
+    position: relative;
+  }
   h1 {
   	font-family: 'Handlee', cursive;
     font-size: 80px;
@@ -83,7 +88,7 @@
   	padding-bottom: 3%;
   	text-align: center;
   }
-  .headingPadding{
+  .paddingTop{
   	padding:18px;
   	text-align: center;
   }
