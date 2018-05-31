@@ -2,30 +2,29 @@
 layout: default
 ---
 
-<section class="bgPosts centered" style="background-image:url('{{page.feature-image_path}}');">
-  <div class="banner-inner">
+<section class="textCenter" style="background-image:url('{{page.feature-image_path}}');">
+<div class="banner-inner">
 
-  </div>
+</div>
+
 </section>
+<section class="grid">
+  <h2 class="textCenter"> {{page.title}} </h2>
 
-<section>
-  <h2 class="centered"> {{page.title}} </h2>
-  <hr class="center"> </hr>
-  <p> {{page.subtitle}} </p>
-  <div class="posts">
+  <div class="col-8">
    {{content}}
   </div>
 
 </section>
 
-<section class="blog">
-  <h2 class="center shorelines">Read Next</h2>
-  <div class="blog-posts grid-middle-center">
+<section>
+  <h2 class="textCenter">Read Next</h2>
+  <div class="grid-middle-center">
 
      {% for post in site.posts limit:4 %}
 
     <div class="blog-post col-3_sm-6_xs-12">
-     <img class="bg blogImage" src="{{ post.feature-image_path }} " alt="">
+     <img class="backgroundRecentImg" src="{{ post.feature-image_path }} " alt="">
      <div class="blogContainer centered">
        <h4 class="centered blogPosts"><a href="{{ post.url }}">{{ post.title }}</a><br /></h4>
          <p>
