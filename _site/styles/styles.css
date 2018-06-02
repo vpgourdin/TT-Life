@@ -78,6 +78,9 @@
     text-align: center;
     color: white;
   }
+  .container a{
+    color: white;
+  }
   /* Centered text */
   .centered {
       position: absolute;
@@ -145,6 +148,9 @@ About Section
     }
     /* Maps
 */
+.map{
+  height: 115vh;
+}
 #mapwrapper {
 	max-width: 1920px;
 	margin: 0 auto;

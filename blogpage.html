@@ -1,3 +1,17 @@
 ---
 layout: default
 ---
+
+<section class="textCenter">
+ <h2 class=>Most Recent Adventure</h2>
+	<div class="grid recentBlog textCenter">
+		{% for post in site.posts limit:1 %}
+			<div class="col-12 textCenter">
+				<img class="backgroundRecentImg" src="{{ post.feature-image_path }}">
+          <h3>{{post.title}}</h3>
+          <p>{{post.excerpt | truncatewords:30}}</p>
+          <a href="{{post.url}}">Read More</a>
+        </div>
+			{% endfor %}
+	</div>
+</section>
