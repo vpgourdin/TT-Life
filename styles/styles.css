@@ -28,8 +28,9 @@
     position: relative;
   }
   h1 {
-  	font-family: 'Handlee', cursive;
+    font-family: 'Shadows Into Light Two', cursive;
     font-size: 80px;
+    font-weight: normal;
 	  line-height: 95px;
 	  color:black;
   }
@@ -37,22 +38,25 @@
       padding-top: 190px;
   }
   h2 {
-  	font-size: 45px;
-  	font-family: 'Life Savers', cursive;
-  }
+    font-family: 'Shadows Into Light Two', cursive;
+  	font-size: 4.5rem;
+    font-weight: normal;
+}
   h3 {
+    font-family: 'Shadows Into Light Two', cursive;
   	font-size: 40px;
-  	/*font-family: 'Raleway',sans-serif;*/
-  	font-family: 'Life Savers', cursive;
-  }
+    font-weight: normal;
+}
   h4 {
+    font-family: 'Shadows Into Light Two', cursive;
   	font-size: 25px;
-  	font-family: 'Shadows Into Light Two', cursive;
+    font-weight: normal;
   	color: black;
   }
   h5 {
+    font-family: 'Shadows Into Light Two', cursive;
   	font-size: 15px;
-  	font-family: 'Raleway',sans-serif;
+    font-weight: normal;    
   }
   p{
     font-size: 1.1rem;
@@ -70,9 +74,18 @@
 /*
   ***HELPERS***
 */
-/* Container holding the image and the text */
+.shadows{
+  font-family: 'Shadows Into Light Two', cursive;
+}
+/*
+ Container holding the image and the text
+*/
+.imageSquare{
+  height:400px;
+  width: 400px;
+}
   .container {
-    font-family: 'Handlee', cursive;
+    font-family: 'Shadows Into Light Two', cursive;
     font-size: 70px;
     position: relative;
     text-align: center;
@@ -128,11 +141,10 @@ About Section
 }
 /* carousel */
 #carousel{
-  height: 50vh;
+  height: 60vh;
 }
 .carousel-3d-slide {
-      height: 950px !important;
-      width: 400px !important;
+      height: auto !important;
       background-color: rgba(0, 0, 0, 0.25) !important;
     }
   /**   RECENT BLOG  **/
@@ -140,8 +152,8 @@ About Section
     	min-height: 75vh;
     }
     .backgroundRecentImg{
-    	width: 600px;
-      height: 350px;
+    	width: 650px;
+      height: 400px;
       padding: 2%;
     	background-size: cover;
     	background-position: center;
