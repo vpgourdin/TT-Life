@@ -56,7 +56,7 @@
   h5 {
     font-family: 'Shadows Into Light Two', cursive;
   	font-size: 15px;
-    font-weight: normal;    
+    font-weight: normal;
   }
   p{
     font-size: 1.1rem;
@@ -66,6 +66,7 @@
     padding: 2%;
   }
   .map{
+    background-color: rgba(75, 146, 116, 0.16);
     padding-top: 2%;
     padding-bottom: 2%;
     padding-left: 12%;
@@ -161,7 +162,7 @@ About Section
     /* Maps
 */
 .map{
-  height: 115vh;
+  height: 100vh;
 }
 #mapwrapper {
 	max-width: 1920px;
@@ -224,21 +225,30 @@ About Section
 */
 /* Style the navbar */
 #navbar {
+  display: block;
   overflow: hidden;
   background-color:white;
   z-index: 99999999;
 }
-
-/* Navbar links */
+.navFooter{
+  text-align: center;
+  padding: 1%;
+}
+/*
+Navbar links
+*/
 #navbar a {
   float: left;
   display: block;
-  color: rgb(36, 118, 11);
+  background-color: green;
+  color: white;
   text-align: center;
   padding: 14px;
   text-decoration: none;
 }
-
+.navHead{
+  background-color: green;
+}
 /*
   ***HOME***
 */
@@ -253,8 +263,11 @@ About Section
 */
 .sub-footer {
   text-align: center;
-  padding: 0 5%;
-  min-height: 4rem;
+  font-family: 'Shadows Into Light Two', cursive;
+  padding: 3px 7%;
+  font-weight: bolder;
+  background-color: green;
+
 }
 /*
   ***FORM***
