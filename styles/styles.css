@@ -227,7 +227,7 @@ About Section
 #navbar {
   display: block;
   overflow: hidden;
-  background-color:white;
+  background-color:#146314b5;
   z-index: 99999999;
 }
 .navFooter{
@@ -240,15 +240,12 @@ Navbar links
 #navbar a {
   float: left;
   display: block;
-  background-color: green;
   color: white;
   text-align: center;
-  padding: 14px;
+  padding: 5px 14px;
   text-decoration: none;
 }
-.navHead{
-  background-color: green;
-}
+
 /*
   ***HOME***
 */
@@ -282,7 +279,7 @@ hamburger menu
 .hamburger-menu {
     display: none;
     position: fixed;
-    top: 0;
+    top: 15px;
     right: 0;
     bottom: 0;
 		background-color:rgb(240, 232, 220);
@@ -313,7 +310,7 @@ a.smallMenu {
 .hamburger-menu li{list-style:none}
 .hamburger-button {
   position:fixed;
-  top: 2vh;
+  top: 6vh;
   right: 2vh;
   z-index: 9999999999;
   padding: 12px;
