@@ -66,7 +66,6 @@
     padding: 2%;
   }
   .map{
-    background-color: rgba(75, 146, 116, 0.16);
     padding-top: 2%;
     padding-bottom: 2%;
     padding-left: 12%;
@@ -227,7 +226,7 @@ About Section
 #navbar {
   display: block;
   overflow: hidden;
-  background-color:#146314b5;
+  background-color:#556F44;
   z-index: 99999999;
 }
 .navFooter{
@@ -261,9 +260,10 @@ Navbar links
 .sub-footer {
   text-align: center;
   font-family: 'Shadows Into Light Two', cursive;
+  color: white;
   padding: 3px 7%;
   font-weight: bolder;
-  background-color: green;
+  background-color: #556F44;
 
 }
 /*
@@ -284,7 +284,7 @@ hamburger menu
     bottom: 0;
 		background-color:rgb(240, 232, 220);
     padding:3% 3% 10% 3%;
-		width: 465px;
+		width: 365px;
 		text-align:center;
     box-shadow: 0px 2px 8px 0px rgba(0, 0, 0, 0.1);
     z-index: 99999999;
@@ -317,7 +317,7 @@ a.smallMenu {
 }
 .hamburger-button span{
   width: 50px;
-  border: 2px solid rgb(36, 118, 11);
+  border: 2px solid #556F44;
   background-color: black;
   display: block;
   border-radius: 22px;
@@ -340,7 +340,7 @@ a.smallMenu {
 .active .hamburger-bottom{
    transform: rotateZ(-45deg);
   bottom:12px;
-  border-color:rgb(137, 99, 63);
+  border-color: #B39A81;
 }
 .active .hamburger-middle{
   opacity:0;
@@ -348,7 +348,7 @@ a.smallMenu {
 
 a.socialIcon{
 	display:inline-block;
-	color:rgb(36, 118, 11);
+	color:#556F44;
 }
 .sbIcon{
 	text-align: center;

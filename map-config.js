@@ -1,17 +1,17 @@
 var map_config = {
 	'default':{
-		'borderColor':'#9CA8B6', //inter-state borders
+		'borderColor':'#331F0B', //inter-state borders
 		'lakesFill':'#ACE9FC', // lakes color
 		'lakesOutline':'#9CA8B6', // lakes outline color
-		'namesColor':'#919191', //color of short names
+		'namesColor':'#331F0B', //color of short names
 		'mapShadow':'#7a7a7a', //shadow color below the map
 	},
 	'st_1':{
 		'hover': 'ALABAMA', //state hover content
 		'url':'http://www.html5interactivemaps.com/', //Goto URL
 		'target':'same_window', //open link in new window:new_window, open in current window:same_window, or none for nothing.
-		'upColor':'#EBECED', //state's color when page loads
-		'overColor':'#8fbee8', //state's color when mouse hover
+		'upColor':'#B39A81', <!-- brown--> //state's color when page loads
+		'overColor':'#738966', <!-- light Green Hoover --> //state's color when mouse hover
 		'downColor':'#993366',//state's color when mouse clicking
 		'enable':true,//true/false to enable/disable this state
 		'iso':'iso_al',//DON"T CHANGE IT
@@ -20,8 +20,8 @@ var map_config = {
 		'hover': 'ALASKA',
 		// 'url':'http://www.html5interactivemaps.com/',
 		'target':'same_window',
-		'upColor':'#EBECED',
-		'overColor':'#8fbee8',
+		'upColor':'#B39A81', <!-- brown-->
+		'overColor':'#738966', <!-- light Green Hoover -->
 		'downColor':'#993366',
 		'enable':true,
 		'iso':'iso_ak',
@@ -30,8 +30,8 @@ var map_config = {
 		'hover': 'ARIZONA',
 		'url':'http://www.html5interactivemaps.com/',
 		'target':'same_window',
-		'upColor':'#EBECED',
-		'overColor':'#8fbee8',
+		'upColor':'#B39A81', <!-- brown-->
+		'overColor':'#738966', <!-- light Green Hoover -->
 		'downColor':'#993366',
 		'enable':true,
 		'iso':'iso_az',
@@ -40,8 +40,8 @@ var map_config = {
 		'hover': 'ARKANSAS',
 		'url':'http://www.html5interactivemaps.com/',
 		'target':'same_window',
-		'upColor':'#EBECED',
-		'overColor':'#8fbee8',
+		'upColor':'#B39A81', <!-- brown-->
+		'overColor':'#738966', <!-- light Green Hoover -->
 		'downColor':'#993366',
 		'enable':true,
 		'iso':'iso_ar',
@@ -50,8 +50,8 @@ var map_config = {
 		'hover': '<u><b>CALIFORNIA</b></u><br>Write any text and load images<br><img src="example.png">',
 		// 'url':'http://www.html5interactivemaps.com/',
 		'target':'same_window',
-		'upColor':'#EBECED',
-		'overColor':'#8fbee8',
+		'upColor':'#B39A81', <!-- brown-->
+		'overColor':'#738966', <!-- light Green Hoover -->
 		'downColor':'#993366',
 		'enable':true,
 		'iso':'iso_ca',
@@ -60,8 +60,8 @@ var map_config = {
 		'hover': 'COLORADO',
 		'url':'http://www.html5interactivemaps.com/',
 		'target':'same_window',
-		'upColor':'#EBECED',
-		'overColor':'#8fbee8',
+		'upColor':'#B39A81',
+		'overColor':'#738966', <!-- light Green Hoover -->
 		'downColor':'#993366',
 		'enable':true,
 		'iso':'iso_co',
@@ -70,8 +70,8 @@ var map_config = {
 		'hover': 'CONNECTICUT',
 		'url':'http://www.html5interactivemaps.com/',
 		'target':'same_window',
-		'upColor':'#EBECED',
-		'overColor':'#8fbee8',
+		'upColor':'#B39A81', <!-- brown-->
+		'overColor':'#738966', <!-- light Green Hoover -->
 		'downColor':'#993366',
 		'enable':true,
 		'iso':'iso_ct',
@@ -80,8 +80,8 @@ var map_config = {
 		'hover': 'DELAWARE',
 		'url':'http://www.html5interactivemaps.com/',
 		'target':'same_window',
-		'upColor':'#EBECED',
-		'overColor':'#8fbee8',
+		'upColor':'#B39A81', <!-- brown-->
+		'overColor':'#738966', <!-- light Green Hoover -->
 		'downColor':'#993366',
 		'enable':true,
 		'iso':'iso_de',
@@ -90,8 +90,8 @@ var map_config = {
 		'hover': 'FLORIDA',
 		'url':'http://www.html5interactivemaps.com/',
 		'target':'same_window',
-		'upColor':'#EBECED',
-		'overColor':'#8fbee8',
+		'upColor':'#B39A81', <!-- brown-->
+		'overColor':'#738966', <!-- light Green Hoover -->
 		'downColor':'#993366',
 		'enable':true,
 		'iso':'iso_fl',
@@ -100,8 +100,8 @@ var map_config = {
 		'hover': 'GEORGIA',
 		'url':'http://www.html5interactivemaps.com/',
 		'target':'same_window',
-		'upColor':'#EBECED',
-		'overColor':'#8fbee8',
+		'upColor':'#B39A81', <!-- brown-->
+		'overColor':'#738966', <!-- light Green Hoover -->
 		'downColor':'#993366',
 		'enable':true,
 		'iso':'iso_ga',
@@ -110,8 +110,8 @@ var map_config = {
 		'hover': 'HAWAII',
 		'url':'http://www.html5interactivemaps.com/',
 		'target':'same_window',
-		'upColor':'#EBECED',
-		'overColor':'#8fbee8',
+		'upColor':'#B39A81', <!-- brown-->
+		'overColor':'#738966', <!-- light Green Hoover -->
 		'downColor':'#993366',
 		'enable':true,
 		'iso':'iso_hi',
@@ -120,8 +120,8 @@ var map_config = {
 		'hover': 'IDAHO',
 		'url':'http://www.html5interactivemaps.com/',
 		'target':'same_window',
-		'upColor':'#EBECED',
-		'overColor':'#8fbee8',
+		'upColor':'#B39A81', <!-- brown-->
+		'overColor':'#738966', <!-- light Green Hoover -->
 		'downColor':'#993366',
 		'enable':true,
 		'iso':'iso_id',
@@ -130,8 +130,8 @@ var map_config = {
 		'hover': 'ILLINOIS',
 		'url':'http://www.html5interactivemaps.com/',
 		'target':'same_window',
-		'upColor':'#EBECED',
-		'overColor':'#8fbee8',
+		'upColor':'#B39A81', <!-- brown-->
+		'overColor':'#738966', <!-- light Green Hoover -->
 		'downColor':'#993366',
 		'enable':true,
 		'iso':'iso_il',
@@ -140,8 +140,8 @@ var map_config = {
 		'hover': 'INDIANA',
 		'url':'http://www.html5interactivemaps.com/',
 		'target':'same_window',
-		'upColor':'#EBECED',
-		'overColor':'#8fbee8',
+		'upColor':'#B39A81', <!-- brown-->
+		'overColor':'#738966', <!-- light Green Hoover -->
 		'downColor':'#993366',
 		'enable':true,
 		'iso':'iso_in',
@@ -150,8 +150,8 @@ var map_config = {
 		'hover': 'IOWA',
 		'url':'http://www.html5interactivemaps.com/',
 		'target':'same_window',
-		'upColor':'#EBECED',
-		'overColor':'#8fbee8',
+		'upColor':'#B39A81', <!-- brown-->
+		'overColor':'#738966', <!-- light Green Hoover -->
 		'downColor':'#993366',
 		'enable':true,
 		'iso':'iso_ia',
@@ -160,8 +160,8 @@ var map_config = {
 		'hover': 'KANSAS',
 		'url':'http://www.html5interactivemaps.com/',
 		'target':'same_window',
-		'upColor':'#EBECED',
-		'overColor':'#8fbee8',
+		'upColor':'#B39A81', <!-- brown-->
+		'overColor':'#738966', <!-- light Green Hoover -->
 		'downColor':'#993366',
 		'enable':true,
 		'iso':'iso_ks',
@@ -170,8 +170,8 @@ var map_config = {
 		'hover': 'KENTUCKY',
 		'url':'http://www.html5interactivemaps.com/',
 		'target':'same_window',
-		'upColor':'#EBECED',
-		'overColor':'#8fbee8',
+		'upColor':'#B39A81', <!-- brown-->
+		'overColor':'#738966', <!-- light Green Hoover -->
 		'downColor':'#993366',
 		'enable':true,
 		'iso':'iso_ky',
@@ -180,8 +180,8 @@ var map_config = {
 		'hover': 'LOUISIANA',
 		'url':'http://www.html5interactivemaps.com/',
 		'target':'same_window',
-		'upColor':'#EBECED',
-		'overColor':'#8fbee8',
+		'upColor':'#B39A81', <!-- brown-->
+		'overColor':'#738966', <!-- light Green Hoover -->
 		'downColor':'#993366',
 		'enable':true,
 		'iso':'iso_la',
@@ -190,8 +190,8 @@ var map_config = {
 		'hover': 'MAINE',
 		'url':'http://www.html5interactivemaps.com/',
 		'target':'same_window',
-		'upColor':'#EBECED',
-		'overColor':'#8fbee8',
+		'upColor':'#B39A81', <!-- brown-->
+		'overColor':'#738966', <!-- light Green Hoover -->
 		'downColor':'#993366',
 		'enable':true,
 		'iso':'iso_me',
@@ -200,8 +200,8 @@ var map_config = {
 		'hover': 'MARYLAND',
 		'url':'http://www.html5interactivemaps.com/',
 		'target':'same_window',
-		'upColor':'#EBECED',
-		'overColor':'#8fbee8',
+		'upColor':'#B39A81', <!-- brown-->
+		'overColor':'#738966', <!-- light Green Hoover -->
 		'downColor':'#993366',
 		'enable':true,
 		'iso':'iso_md',
@@ -210,8 +210,8 @@ var map_config = {
 		'hover': 'MASSACHUSETTS',
 		'url':'http://www.html5interactivemaps.com/',
 		'target':'same_window',
-		'upColor':'#EBECED',
-		'overColor':'#8fbee8',
+		'upColor':'#B39A81', <!-- brown-->
+		'overColor':'#738966', <!-- light Green Hoover -->
 		'downColor':'#993366',
 		'enable':true,
 		'iso':'iso_ma',
@@ -220,8 +220,8 @@ var map_config = {
 		'hover': 'MICHIGAN',
 		'url':'http://www.html5interactivemaps.com/',
 		'target':'same_window',
-		'upColor':'#EBECED',
-		'overColor':'#8fbee8',
+		'upColor':'#B39A81', <!-- brown-->
+		'overColor':'#738966', <!-- light Green Hoover -->
 		'downColor':'#993366',
 		'enable':true,
 		'iso':'iso_mi',
@@ -230,8 +230,8 @@ var map_config = {
 		'hover': 'MINNESOTA',
 		'url':'http://www.html5interactivemaps.com/',
 		'target':'same_window',
-		'upColor':'#EBECED',
-		'overColor':'#8fbee8',
+		'upColor':'#B39A81', <!-- brown-->
+		'overColor':'#738966', <!-- light Green Hoover -->
 		'downColor':'#993366',
 		'enable':true,
 		'iso':'iso_mn',
@@ -240,8 +240,8 @@ var map_config = {
 		'hover': 'MISSISSIPPI',
 		'url':'http://www.html5interactivemaps.com/',
 		'target':'same_window',
-		'upColor':'#EBECED',
-		'overColor':'#8fbee8',
+		'upColor':'#B39A81', <!-- brown-->
+		'overColor':'#738966', <!-- light Green Hoover -->
 		'downColor':'#993366',
 		'enable':true,
 		'iso':'iso_ms',
@@ -250,8 +250,8 @@ var map_config = {
 		'hover': 'MISSOURI',
 		'url':'http://www.html5interactivemaps.com/',
 		'target':'same_window',
-		'upColor':'#EBECED',
-		'overColor':'#8fbee8',
+		'upColor':'#B39A81', <!-- brown-->
+		'overColor':'#738966', <!-- light Green Hoover -->
 		'downColor':'#993366',
 		'enable':true,
 		'iso':'iso_mo',
@@ -260,8 +260,8 @@ var map_config = {
 		'hover': 'MONTANA',
 		'url':'http://www.html5interactivemaps.com/',
 		'target':'same_window',
-		'upColor':'#96281B',
-		'overColor':'#8fbee8',
+		'upColor':'#556F44',<!-- Dark Green -->
+		'overColor':'#738966', <!-- light Green Hoover -->
 		'downColor':'#993366',
 		'enable':true,
 		'iso':'iso_mt',
@@ -270,8 +270,8 @@ var map_config = {
 		'hover': 'NEBRASKA',
 		'url':'http://www.html5interactivemaps.com/',
 		'target':'same_window',
-		'upColor':'#EBECED',
-		'overColor':'#8fbee8',
+		'upColor':'#B39A81', <!-- brown-->
+		'overColor':'#738966', <!-- light Green Hoover -->
 		'downColor':'#993366',
 		'enable':true,
 		'iso':'iso_ne',
@@ -280,8 +280,8 @@ var map_config = {
 		'hover': 'NEVADA',
 		'url':'http://www.html5interactivemaps.com/',
 		'target':'same_window',
-		'upColor':'#EBECED',
-		'overColor':'#8fbee8',
+		'upColor':'#B39A81', <!-- brown-->
+		'overColor':'#738966', <!-- light Green Hoover -->
 		'downColor':'#993366',
 		'enable':true,
 		'iso':'iso_nv',
@@ -290,8 +290,8 @@ var map_config = {
 		'hover': 'NEW HAMPSHIRE',
 		'url':'http://www.html5interactivemaps.com/',
 		'target':'same_window',
-		'upColor':'#EBECED',
-		'overColor':'#8fbee8',
+		'upColor':'#B39A81', <!-- brown-->
+		'overColor':'#738966', <!-- light Green Hoover -->
 		'downColor':'#993366',
 		'enable':true,
 		'iso':'iso_nh',
@@ -300,8 +300,8 @@ var map_config = {
 		'hover': 'NEW JERSEY',
 		'url':'http://www.html5interactivemaps.com/',
 		'target':'same_window',
-		'upColor':'#EBECED',
-		'overColor':'#8fbee8',
+		'upColor':'#B39A81', <!-- brown-->
+		'overColor':'#738966', <!-- light Green Hoover -->
 		'downColor':'#993366',
 		'enable':true,
 		'iso':'iso_nj',
@@ -310,8 +310,8 @@ var map_config = {
 		'hover': 'NEW MEXICO',
 		'url':'http://www.html5interactivemaps.com/',
 		'target':'same_window',
-		'upColor':'#EBECED',
-		'overColor':'#8fbee8',
+		'upColor':'#B39A81', <!-- brown-->
+		'overColor':'#738966', <!-- light Green Hoover -->
 		'downColor':'#993366',
 		'enable':true,
 		'iso':'iso_nm',
@@ -320,8 +320,8 @@ var map_config = {
 		'hover': 'NEW YORK',
 		'url':'http://www.html5interactivemaps.com/',
 		'target':'same_window',
-		'upColor':'#EBECED',
-		'overColor':'#8fbee8',
+		'upColor':'#B39A81', <!-- brown-->
+		'overColor':'#738966', <!-- light Green Hoover -->
 		'downColor':'#993366',
 		'enable':true,
 		'iso':'iso_ny',
@@ -330,8 +330,8 @@ var map_config = {
 		'hover': 'NORTH CAROLINA',
 		'url':'http://www.html5interactivemaps.com/',
 		'target':'same_window',
-		'upColor':'#EBECED',
-		'overColor':'#8fbee8',
+		'upColor':'#B39A81', <!-- brown-->
+		'overColor':'#738966', <!-- light Green Hoover -->
 		'downColor':'#993366',
 		'enable':true,
 		'iso':'iso_nc',
@@ -340,8 +340,8 @@ var map_config = {
 		'hover': 'NORTH DAKOTA',
 		'url':'http://www.html5interactivemaps.com/',
 		'target':'same_window',
-		'upColor':'#EBECED',
-		'overColor':'#8fbee8',
+		'upColor':'#B39A81', <!-- brown-->
+		'overColor':'#738966', <!-- light Green Hoover -->
 		'downColor':'#993366',
 		'enable':true,
 		'iso':'iso_nd',
@@ -350,8 +350,8 @@ var map_config = {
 		'hover': 'OHIO',
 		'url':'http://www.html5interactivemaps.com/',
 		'target':'same_window',
-		'upColor':'#EBECED',
-		'overColor':'#8fbee8',
+		'upColor':'#B39A81', <!-- brown-->
+		'overColor':'#738966', <!-- light Green Hoover -->
 		'downColor':'#993366',
 		'enable':true,
 		'iso':'iso_oh',
@@ -360,8 +360,8 @@ var map_config = {
 		'hover': 'OKLAHOMA',
 		'url':'http://www.html5interactivemaps.com/',
 		'target':'same_window',
-		'upColor':'#EBECED',
-		'overColor':'#8fbee8',
+		'upColor':'#B39A81', <!-- brown-->
+		'overColor':'#738966', <!-- light Green Hoover -->
 		'downColor':'#993366',
 		'enable':true,
 		'iso':'iso_ok',
@@ -370,8 +370,8 @@ var map_config = {
 		'hover': 'OREGON',
 		'url':'http://www.html5interactivemaps.com/',
 		'target':'same_window',
-		'upColor':'#EBECED',
-		'overColor':'#8fbee8',
+		'upColor':'#B39A81', <!-- brown-->
+		'overColor':'#738966', <!-- light Green Hoover -->
 		'downColor':'#993366',
 		'enable':true,
 		'iso':'iso_or',
@@ -380,8 +380,8 @@ var map_config = {
 		'hover': 'PENNSYLVANIA',
 		'url':'http://www.html5interactivemaps.com/',
 		'target':'same_window',
-		'upColor':'#EBECED',
-		'overColor':'#8fbee8',
+		'upColor':'#B39A81', <!-- brown-->
+		'overColor':'#738966', <!-- light Green Hoover -->
 		'downColor':'#993366',
 		'enable':true,
 		'iso':'iso_pa',
@@ -390,8 +390,8 @@ var map_config = {
 		'hover': 'RHODE ISLAND',
 		'url':'http://www.html5interactivemaps.com/',
 		'target':'same_window',
-		'upColor':'#EBECED',
-		'overColor':'#8fbee8',
+		'upColor':'#B39A81', <!-- brown-->
+		'overColor':'#738966', <!-- light Green Hoover -->
 		'downColor':'#993366',
 		'enable':true,
 		'iso':'iso_ri',
@@ -400,8 +400,8 @@ var map_config = {
 		'hover': 'SOUTH CAROLINA',
 		'url':'http://www.html5interactivemaps.com/',
 		'target':'same_window',
-		'upColor':'#EBECED',
-		'overColor':'#8fbee8',
+		'upColor':'#B39A81', <!-- brown-->
+		'overColor':'#738966', <!-- light Green Hoover -->
 		'downColor':'#993366',
 		'enable':true,
 		'iso':'iso_sc',
@@ -410,8 +410,8 @@ var map_config = {
 		'hover': 'SOUTH DAKOTA',
 		'url':'http://www.html5interactivemaps.com/',
 		'target':'same_window',
-		'upColor':'#EBECED',
-		'overColor':'#8fbee8',
+		'upColor':'#B39A81', <!-- brown-->
+		'overColor':'#738966', <!-- light Green Hoover -->
 		'downColor':'#993366',
 		'enable':true,
 		'iso':'iso_sd',
@@ -420,8 +420,8 @@ var map_config = {
 		'hover': 'TENNESSEE',
 		'url':'http://www.html5interactivemaps.com/',
 		'target':'same_window',
-		'upColor':'#EBECED',
-		'overColor':'#8fbee8',
+		'upColor':'#B39A81', <!-- brown-->
+		'overColor':'#738966', <!-- light Green Hoover -->
 		'downColor':'#993366',
 		'enable':true,
 		'iso':'iso_tn',
@@ -430,8 +430,8 @@ var map_config = {
 		'hover': '<b><u>TEXAS</u></b><br><span style="color: yellow;">*Link each state to any webpage*</span>',
 		'url':'http://www.html5interactivemaps.com/',
 		'target':'same_window',
-		'upColor':'#EBECED',
-		'overColor':'#8fbee8',
+		'upColor':'#B39A81', <!-- brown-->
+		'overColor':'#738966', <!-- light Green Hoover -->
 		'downColor':'#993366',
 		'enable':true,
 		'iso':'iso_tx',
@@ -440,8 +440,8 @@ var map_config = {
 		'hover': 'UTAH',
 		'url': 'http://127.0.0.1:4000/category/utah/',
 		'target':'same_window',
-		'upColor':'#96281B',
-		'overColor':'#8fbee8',
+		'upColor':'#556F44', <!-- Dark Green -->
+		'overColor':'#738966', <!-- light Green -->
 		'downColor':'#993366',
 		'enable':true,
 		'iso':'iso_ut',
@@ -450,8 +450,8 @@ var map_config = {
 		'hover': 'VERMONT',
 		'url':'http://www.html5interactivemaps.com/',
 		'target':'same_window',
-		'upColor':'#EBECED',
-		'overColor':'#8fbee8',
+		'upColor':'#B39A81', <!-- brown-->
+		'overColor':'#738966', <!-- light Green Hoover -->
 		'downColor':'#993366',
 		'enable':true,
 		'iso':'iso_vt',
@@ -460,8 +460,8 @@ var map_config = {
 		'hover': 'VIRGINIA',
 		'url':'http://www.html5interactivemaps.com/',
 		'target':'same_window',
-		'upColor':'#EBECED',
-		'overColor':'#8fbee8',
+		'upColor':'#B39A81', <!-- brown-->
+		'overColor':'#738966', <!-- light Green Hoover -->
 		'downColor':'#993366',
 		'enable':true,
 		'iso':'iso_va',
@@ -470,8 +470,8 @@ var map_config = {
 		'hover': 'WASHINGTON',
 		'url':'http://www.html5interactivemaps.com/',
 		'target':'same_window',
-		'upColor':'#EBECED',
-		'overColor':'#8fbee8',
+		'upColor':'#B39A81', <!-- brown-->
+		'overColor':'#738966', <!-- light Green Hoover -->
 		'downColor':'#993366',
 		'enable':true,
 		'iso':'iso_wa',
@@ -480,8 +480,8 @@ var map_config = {
 		'hover': 'WEST VIRGINIA',
 		'url':'http://www.html5interactivemaps.com/',
 		'target':'same_window',
-		'upColor':'#EBECED',
-		'overColor':'#8fbee8',
+		'upColor':'#B39A81', <!-- brown-->
+		'overColor':'#738966', <!-- light Green Hoover -->
 		'downColor':'#993366',
 		'enable':true,
 		'iso':'iso_wv',
@@ -490,8 +490,8 @@ var map_config = {
 		'hover': 'WISCONSIN',
 		'url':'http://www.html5interactivemaps.com/',
 		'target':'same_window',
-		'upColor':'#EBECED',
-		'overColor':'#8fbee8',
+		'upColor':'#B39A81', <!-- brown-->
+		'overColor':'#738966', <!-- light Green Hoover -->
 		'downColor':'#993366',
 		'enable':true,
 		'iso':'iso_wi',
@@ -500,8 +500,8 @@ var map_config = {
 		'hover': 'WYOMING',
 		'url':'http://www.html5interactivemaps.com/',
 		'target':'same_window',
-		'upColor':'#EBECED',
-		'overColor':'#8fbee8',
+		'upColor':'#B39A81', <!-- brown-->
+		'overColor':'#738966', <!-- light Green Hoover -->
 		'downColor':'#993366',
 		'enable':true,
 		'iso':'iso_wy',
