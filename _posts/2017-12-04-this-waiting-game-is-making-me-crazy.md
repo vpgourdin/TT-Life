@@ -29,3 +29,7 @@ I am a registered nurse and I was a director for a home health and hospice compa
 We live at 8600’ in the mountains, surrounded by “quakies” and pines off of a dirt road. There is a ton of wildlife that includes moose, bears, badgers, deer and porcupines. We can hear the elk bugle in the early morning hours at the end of August and early part of September. The fall colors are AMAZING and vibrant shades of yellow and orange. And when it SNOWS! Imagine driving between white walls of snow that are taller than your jeep! We had over 30 FEET of snow at one point. And even with all of this crazy, wonderful piece of heaven where we live, we still want to sell everything and hit the road.
 
 ![](/uploads/moose@2x.png)
+
+Although increasing in year-round living, most of the cabins in our neighborhood are exactly that. Cabins. People’s second homes where they come to escape the pressures, smog, and technology of their daily grind. We have loved where we live which made our decision to sell and RV full-time even more challenging. So, in short, our targeted buyers are looking for a wooded getaway or a place to retire.
+
+![](/images/sleding.JPG)
