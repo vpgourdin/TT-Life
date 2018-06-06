@@ -24,7 +24,7 @@
   }
   .logo{
     height: 180px;
-    right: 37px;
+    right: -25px;
     position: relative;
   }
   h1 {
@@ -310,7 +310,7 @@ a.smallMenu {
 .hamburger-menu li{list-style:none}
 .hamburger-button {
   position:fixed;
-  top: 6vh;
+  top: 8vh;
   right: 2vh;
   z-index: 9999999999;
   padding: 12px;
