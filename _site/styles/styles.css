@@ -74,6 +74,12 @@
 /*
   ***HELPERS***
 */
+.bgPost{
+  max-width : 100%;
+  height: auto;
+  display: block;
+  position: relative;
+}
 .shadows{
   font-family: 'Shadows Into Light Two', cursive;
 }
