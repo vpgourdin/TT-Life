@@ -2,7 +2,7 @@
 layout: posts
 author: Jennifer
 title: This Waiting Game is Making Me Crazy
-subtitle: All thanks to my awesome and favorite daughter Justyn
+subtitle:
 feature-image_path: /uploads/night-home-1.png
 ---
 
