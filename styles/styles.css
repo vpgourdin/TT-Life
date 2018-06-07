@@ -79,10 +79,16 @@ section{
   font-family: 'Fresca', sans-serif;
 }
 .bgPost{
-  max-width : 100%;
-  height: auto;
-  display: block;
-  position: relative;
+  height: 815px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.bg{
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height:200px;
 }
 .shadows{
   font-family: 'Shadows Into Light Two', cursive;
