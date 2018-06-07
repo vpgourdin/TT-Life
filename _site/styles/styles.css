@@ -50,7 +50,7 @@
   h4 {
     font-family: 'Shadows Into Light Two', cursive;
   	font-size: 25px;
-    font-weight: normal;
+    font-weight: lighter;
   	color: black;
   }
   h5 {
@@ -59,6 +59,7 @@
     font-weight: normal;
   }
   p{
+    font-family: 'Fresca', sans-serif;
     font-size: 1.1rem;
     line-height: 1.6
   }
@@ -74,6 +75,9 @@
 /*
   ***HELPERS***
 */
+.fresca{
+  font-family: 'Fresca', sans-serif;
+}
 .bgPost{
   max-width : 100%;
   height: auto;
@@ -123,7 +127,7 @@
   	text-align: center;
   }
   .paragraph{
-  	font-family: "Raleway",sans-serif;
+    font-family: 'Fresca', sans-serif;
   	text-align: center;
   	font-size: 20px;
   	padding: 2% 2%;
@@ -268,7 +272,7 @@ Navbar links
   font-family: 'Shadows Into Light Two', cursive;
   color: white;
   padding: 3px 7%;
-  font-weight: bolder;
+  font-weight: lighter;
   background-color: #556F44;
 
 }
@@ -323,7 +327,7 @@ a.smallMenu {
 }
 .hamburger-button span{
   width: 50px;
-  border: 2px solid #556F44;
+  border: 2px solid #B39A81; <!-- brown-->
   background-color: black;
   display: block;
   border-radius: 22px;
@@ -346,7 +350,7 @@ a.smallMenu {
 .active .hamburger-bottom{
    transform: rotateZ(-45deg);
   bottom:12px;
-  border-color: #B39A81;
+  border-color: #556f44;
 }
 .active .hamburger-middle{
   opacity:0;
