@@ -24,7 +24,7 @@ I am a registered nurse and I was a director for a home health and hospice compa
 
 ### Elevation, Views, and Wildlife
 
-We live at 8600’ in the mountains, surrounded by “quakies” and pines off of a dirt road. There is a ton of wildlife that includes moose, bears, badgers, deer and porcupines. We can hear the elk bugle in the early morning hours at the end of August and early part of September. The fall colors are AMAZING and vibrant shades of yellow and orange. And when it SNOWS! Imagine driving between white walls of snow that are taller than your jeep! We had over 30 FEET of snow at one point. And even with all of this crazy, wonderful piece of heaven where we live, we still want to sell everything and hit the road.
+We live at 8600 feet elevation in the mountains, surrounded by “quakies” and pines off of a dirt road. There is a ton of wildlife that includes moose, bears, badgers, deer and porcupines. We can hear the elk bugle in the early morning hours at the end of August and early part of September. The fall colors are AMAZING with vibrant shades of yellow and orange. And when it SNOWS! Imagine driving between white walls of snow that are taller than your jeep! We had over 30 FEET of snow at one point. And even with all of this crazy, wonderful piece of heaven where we live, we still want to sell everything and hit the road.
 
 ![](/uploads/moose@2x.png)
 
