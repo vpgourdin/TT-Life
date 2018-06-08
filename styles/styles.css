@@ -148,7 +148,7 @@ About Section
 	font-family: 'Fresca', sans-serif;
 	text-align: center;
 	font-size: 25px;
-	padding: 10% 5%;
+	padding: 7% 5%;
 }
 .author{
 	font-family: 'Shadows Into Light Two', cursive;
@@ -174,8 +174,14 @@ About Section
   background-repeat: no-repeat;
   background-size: cover;
 }
+/* Photo section
+*/
+.photo{
+  padding: 5px;
+  width: 398px;
+}  
 
-    /* Maps
+/* Maps
 */
 .map{
   height: 105vh;

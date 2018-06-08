@@ -11,6 +11,23 @@ layout: default
           <p>{{post.excerpt | truncatewords:30}}</p>
           <a href="{{post.url}}">Read More</a>
         </div>
+
 			{% endfor %}
 	</div>
+</section>
+<section class="textCenter">
+	<div class="grid">
+	{% for post in site.posts % offset: 1 %}
+			<div class="col-6_sm-12_xs-12">
+				<h4> {{post.title}}</h4>
+				<div class="background-image" style="background-image:url('{{post.pic}}')">
+					<!-- this is a background image -->
+				</div>
+				<p>
+					 {{post.excerpt | truncatewords:15}}
+				</p>
+				<a href="{{post.url}}"> Read More</a>
+			</div>
+	{% endfor %}
+</div>
 </section>
