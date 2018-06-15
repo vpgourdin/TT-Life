@@ -177,8 +177,9 @@ About Section
 /* Photo section
 */
 .photo{
-  padding: 6px;
+  padding: 3px;
   width: 408px;
+  height: auto;
 }
 
 /* Maps
