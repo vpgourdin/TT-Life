@@ -12,9 +12,7 @@ feature-image_path: /images/flowers.jpg
 
 Have you ever looked into your closet and thought, “When did I get ALL of this stuff?” After we decided to sell our home and move into a motorhome full-time, my husband thought it would be a great idea if I started in my own closet… Is he crazy??? I LOVE everything, and I can’t possibly part with any of it! I have clothes and shoes for just about every occasion and definitely every season. At least I did.
 
-&nbsp;
-
-### ![](/uploads/downsizing3@2x.png)
+![](/uploads/downsizing3@2x.png)
 
 ### My Secret
 
@@ -22,13 +20,13 @@ My secret to get this ball rolling was this…I am not going to fit in to those 
 
 If you ask my husband and kids what my favorite things are they would probably report the same list. Purses and bags, shoes (most definitely), and photography gear and gadgets. I think you can see where I am going with this. I will tackle the purses first. I whole heartedly believe that a person can NEVER have too many of these. Mostly because there are so many great ones in the world! There are bags in every color and pattern, for every season, or month, or week, or even daily (I think this is a little extreme because I can’t possibly change my junk from bag to bag that quick!) And they come in every shape and size and for every purpose you can think of. Oh…I am missing my bags and purses even as I write this! I won’t lie, I didn’t downsize this section of my life nearly enough, but I feel that when the time comes to move into the RV, more things will have to go.
 
-&nbsp;
+![](/uploads/closet3-square.png)
 
 Especially to make room for my shoes. I was able to eliminate most of my high heels with the office work attire, but I am a big fan of shoes and I still have a good-sized collection of them. I have very tiny feet and so when I find shoes that fit, several colors or styles may be in order. I may be starting a shoe buying support group in the future, if anyone is interested.
 
 And on a happier note, I get to keep all my photography gear and gadgets, at least at this stage of the process. I also plan to add to this category as this journey expands, but I am keeping that a secret for now.
 
-&nbsp;
+![](/uploads/kitchen-cupboard2.png)
 
 ### A Little too Downsized
 
