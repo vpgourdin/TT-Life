@@ -6,8 +6,6 @@ subtitle:
 feature-image_path: /images/flowers.jpg
 ---
 
-### &nbsp;
-
 ### What Does Downsizing Look Like to Me
 
 Have you ever looked into your closet and thought, “When did I get ALL of this stuff?” After we decided to sell our home and move into a motorhome full-time, my husband thought it would be a great idea if I started in my own closet… Is he crazy??? I LOVE everything, and I can’t possibly part with any of it! I have clothes and shoes for just about every occasion and definitely every season. At least I did.
