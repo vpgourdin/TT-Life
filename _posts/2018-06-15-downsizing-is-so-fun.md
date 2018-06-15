@@ -6,13 +6,13 @@ subtitle:
 feature-image_path: /images/flowers.jpg
 ---
 
-### ![](/square/downsizing2.jpg)
+### &nbsp;
 
 ### What Does Downsizing Look Like to Me
 
 Have you ever looked into your closet and thought, “When did I get ALL of this stuff?” After we decided to sell our home and move into a motorhome full-time, my husband thought it would be a great idea if I started in my own closet… Is he crazy??? I LOVE everything, and I can’t possibly part with any of it! I have clothes and shoes for just about every occasion and definitely every season. At least I did.
 
-![](/square/clothes2.jpg)
+&nbsp;
 
 ### My Secret
 
@@ -32,6 +32,6 @@ And on a happier note, I get to keep all my photography gear and gadgets, at lea
 
 After the closet purge, I started going room to room. I think that I may have stepped over the line just a little, and really only if are living in a house with a dishwasher, lots of cupboard space, and a large pantry. I decided that we had way too many dishes and a bunch of gadgets that weren’t going to fit in a small RV kitchen. The local church was having a fundraiser yard sale. Guess what? I had tons of stuff to donate! My family thought that was great until they realized that if they put any of the four plates or bowls that were remaining into the dishwasher, they didn’t have anything to eat on. Oops! We have been handwashing ever since. Great practice for RV living is my motto.
 
-I also found that putting items on the local yard sale page was a great way to keep things moving. My oldest daughter is also thrilled to get lots of good kitchen gadgets and household décor to add to her home and the best part…she didn’t have to buy any of it! Not to mention all the junk that we have been throwing away. I am amazed at the amount of stuff one family can acquire! I am going to continue downsizing, dejunking, and simplifying our life while we wait for our house to sell.
+I also found that putting items on the local yard sale page was a great way to keep things moving. My oldest daughter is also thrilled to get lots of good kitchen gadgets and household d&eacute;cor to add to her home and the best part…she didn’t have to buy any of it! Not to mention all the junk that we have been throwing away. I am amazed at the amount of stuff one family can acquire! I am going to continue downsizing, dejunking, and simplifying our life while we wait for our house to sell.
 
 I will keep you posted on our progress!
