@@ -14,7 +14,7 @@ Have you ever looked into your closet and thought, “When did I get ALL of this
 
 &nbsp;
 
-### ![](/square/downsizing2.jpg)
+### ![](/uploads/downsizing3-square@2x.png)
 
 ### My Secret
 
@@ -22,13 +22,13 @@ My secret to get this ball rolling was this…I am not going to fit in to those 
 
 If you ask my husband and kids what my favorite things are they would probably report the same list. Purses and bags, shoes (most definitely), and photography gear and gadgets. I think you can see where I am going with this. I will tackle the purses first. I whole heartedly believe that a person can NEVER have too many of these. Mostly because there are so many great ones in the world! There are bags in every color and pattern, for every season, or month, or week, or even daily (I think this is a little extreme because I can’t possibly change my junk from bag to bag that quick!) And they come in every shape and size and for every purpose you can think of. Oh…I am missing my bags and purses even as I write this! I won’t lie, I didn’t downsize this section of my life nearly enough, but I feel that when the time comes to move into the RV, more things will have to go.
 
-![](/square/closet2.jpg)
+&nbsp;
 
 Especially to make room for my shoes. I was able to eliminate most of my high heels with the office work attire, but I am a big fan of shoes and I still have a good-sized collection of them. I have very tiny feet and so when I find shoes that fit, several colors or styles may be in order. I may be starting a shoe buying support group in the future, if anyone is interested.
 
 And on a happier note, I get to keep all my photography gear and gadgets, at least at this stage of the process. I also plan to add to this category as this journey expands, but I am keeping that a secret for now.
 
-![](/square/kitchen-cupboard-square.jpg)
+&nbsp;
 
 ### A Little too Downsized
 
