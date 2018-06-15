@@ -14,6 +14,8 @@ Have you ever looked into your closet and thought, “When did I get ALL of this
 
 &nbsp;
 
+### ![](/square/downsizing2.jpg)
+
 ### My Secret
 
 My secret to get this ball rolling was this…I am not going to fit in to those skinny jeans that I have been saving before they go back out of style and I like yoga pants waaaay better! I know. It’s harsh but it was the tough love required to get things moving out of my closet. Next, I went with, “if I haven’t worn it in the last 6 months.” I figured that this was a pretty safe bet to get a lot more things out of the closet. After that I narrowed it even more to the last 3 months. I was amazed at the amount of clothing that I was holding on to (for skinnier days) or just wasn’t wearing anymore. I also got rid of all my “office work” attire and only kept my absolute favorite pairs of scrubs. It began to feel really good to see things going for donation and my closet requirements were changing for the better.
