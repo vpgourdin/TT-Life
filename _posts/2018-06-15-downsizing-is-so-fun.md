@@ -14,7 +14,7 @@ Have you ever looked into your closet and thought, “When did I get ALL of this
 
 &nbsp;
 
-### &nbsp;
+### ![](/uploads/downsizing3@2x.png)
 
 ### My Secret
 
