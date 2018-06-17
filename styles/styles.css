@@ -81,18 +81,6 @@ section{
 .fresca{
   font-family: 'Fresca', sans-serif;
 }
-.bgPost{
-  height: 815px;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: contain;
-}
-.bg{
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  min-height:200px;
-}
 .shadows{
   font-family: 'Shadows Into Light Two', cursive;
 }
@@ -164,16 +152,6 @@ About Section
       height: auto !important;
       background-color: rgba(0, 0, 0, 0.25) !important;
     }
-  /**   RECENT BLOG  **/
-    .recentBlog{
-    	min-height: 75vh;
-    }
-.backgroundRecentImg{
-  min-height: 450px;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
 /* Photo section
 */
 .photo{
@@ -275,6 +253,35 @@ Navbar links
 /*
   ***BLOG***
 */
+.bgPost{
+  height: 815px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.bg{
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height:200px;
+}
+.bpimg{
+  max-width : 100%;
+  height: auto;
+  padding: 2%;
+}
+/**
+  ***RECENT BLOG***
+**/
+.recentBlog{
+  min-height: 75vh;
+}
+.backgroundRecentImg{
+  min-height: 450px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
 /*
   ***SIDEBAR***
 */
