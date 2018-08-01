@@ -379,7 +379,8 @@ a.smallMenu {
 }
 
 a.socialIcon{
-	display:inline-block;
+  font-size: 20px;
+  display:inline-block;
 	color:#556F44;
 }
 .sbIcon{
