@@ -22,13 +22,13 @@ var pins_config = {
 	//  	'enable':true,//true/false to enable/disable this pin
 	//  },
 
-// UTAH
+// UTAH Moab
 	{
 		'shape':'circle',
-		'hover':'<b><u>Moab</u></b><br><span style="color: yellow;"><img src="/images/jeepontrail.jpg" alt="Jeep"></span>',
+		'hover':'<b><u>Moab</u></b><br><span style="color: yellow;"><img src="/images/wilson-arch.jpg" alt="Wilson Arch"></span>',
 		'pos_X':180,
 		'pos_Y':217,
-		'diameter':10,
+		'diameter':5,
 		'outline':'#FFF',
 		'thickness':1,
 		'upColor':'#FF0000',
@@ -38,23 +38,40 @@ var pins_config = {
 		'target':'same_window',
 		'enable':true,
 	},
+	// UTAH Timber Lakes
+		{
+			'shape':'circle',
+			'hover':'<b><u>Timber Lakes</u></b><br><span style="color: yellow;"><img src="/images/timberlakes.jpg" alt="Timber Lakes"></span>',
+			'pos_X':165,
+			'pos_Y':175,
+			'diameter':5,
+			'outline':'#FFF',
+			'thickness':1,
+			'upColor':'#FF0000',
+			'overColor':'#FFEE88',
+			'downColor':'#00ffff',
+			'url':'#',
+			'target':'same_window',
+			'enable':true,
+		},
+
 
 // MONTANA
-{
-	'shape':'circle',
-	'hover':'Butte',
-	'pos_X':168.1,
-	'pos_Y':92.25,
-	'diameter':8,
-	'outline':'#FFF',
-	'thickness':1,
-	'upColor':'#FF0000',
-	'overColor':'#FFEE88',
-	'downColor':'#00ffff',
-	'url':'#',
-	'target':'same_window',
-	'enable':true,
-},
+//{
+//	'shape':'circle',
+//'hover':'Butte',
+//	'pos_X':168.1,
+//	'pos_Y':92.25,
+//	'diameter':8,
+//	'outline':'#FFF',
+//	'thickness':1,
+//	'upColor':'#FF0000',
+//	'overColor':'#FFEE88',
+//	'downColor':'#00ffff',
+//	'url':'#',
+//	'target':'same_window',
+//	'enable':true,
+//},
 
 	// {
 	// 	'shape':'circle',

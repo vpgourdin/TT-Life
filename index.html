@@ -3,28 +3,28 @@ layout: default
 ---
 <div id="carousel">
   <carousel-3d :autoplay="true" :autoplay-timeout="2400" :width="540" :height="540">
-    <slide :index="0"><img src="/images/wheat.jpg"/></slide>
-    <slide :index="1"><img src="/images/pinkflower.jpg"/></slide>
-    <slide :index="2"><img src="/images/fallleaves.jpg"/></slide>
-    <slide :index="3"><img src="/images/justynfishing.jpg"/></slide>
+    <slide :index="0"><img src="/images/wilson-arch.jpg"/></slide>
+    <slide :index="1"><img src="/images/spring-geese.jpg"/></slide>
+    <slide :index="2"><img src="/images/dirt-road.jpg"/></slide>
+    <slide :index="3"><img src="/images/remi-jumping-lake.jpg"/></slide>
     <slide :index="4"><img src="/images/double-rainbows.jpg"/></slide>
 		<slide :index="5"><img src="/images/remi-grass.jpg"/></slide>
-		<slide :index="6"><img src="/images/dylan.jpg"/></slide>
+		<slide :index="6"><img src="/images/jade-swimming.jpg"/></slide>
     <slide :index="7"><img src="/images/pine.jpg"/></slide>
   </carousel-3d>
 </div>
 <section class="grid-middle">
   <div class="col-4_sm-12_xs-12">
     <div class="container">
-    <img src="/images/buffalo2.jpg" alt="Havana">
+    <img src="/images/buffalo2.jpg" alt="Buffalo">
       <div class="centered">
-        <a href="/travel.html">HELLO</a>
+        <a class="shadows"href="/travel.html">Travel</a>
       </div>
     </div>
   </div>
   <div class="col-4_sm-12_xs-12">
     <div class="container">
-    <img src="/images/flowers2.jpg" alt="Flowers">
+    <img src="/images/vantagepoint2.jpg" alt="Vantage Point">
       <div class="centered">
         <a class="shadows"href="/photos.html">Photos</a>
       </div>
@@ -32,7 +32,7 @@ layout: default
   </div>
   <div class="col-4_sm-12_xs-12">
     <div class="container">
-    <img src="/images/river2.jpg" alt="Picture of us">
+    <img src="/square/stars-square.jpg" alt="River">
 <div class="centered">
   <a href="/blogpage.html">Blog</a>
   </div>
@@ -46,7 +46,7 @@ layout: default
 		{% for post in site.posts limit:1 %}
 			<div class="col-12 textCenter">
 				<img class="backgroundRecentImg" src="{{ post.feature-image_path }}">
-          <h3>{{post.title}}</h3>
+          <h2>{{post.title}}</h2>
           <p>{{post.excerpt | truncatewords:30}}</p>
           <a href="{{post.url}}">Read More</a>
         </div>
